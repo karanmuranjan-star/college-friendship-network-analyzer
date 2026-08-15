@@ -9,7 +9,7 @@ The project represents students as nodes and friendships as edges, allowing user
 ## 🚀 Live Demo
 
 🌐 **Streamlit App:**  
-ADD YOUR STREAMLIT LINK HERE
+..[https://college-friendship-network-analyzer-sbhra2gckzusuqv8wmb8e3.streamlit.app/]
 
 ---
 
