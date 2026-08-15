@@ -161,5 +161,35 @@ The project demonstrates practical applications of:
 
 A sample network can contain students such as:
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🕸️ Network Visualization
+
+![Network Visualization](screenshots/network.png)
+
+### 📊 Centrality Analysis
+
+![Centrality Analysis](screenshots/centrality.png)
+
+### 📈 Centrality Visualization 1
+
+![Centrality Visualization 1](screenshots/centrality1.png)
+
+### 📈 Centrality Visualization 2
+
+![Centrality Visualization 2](screenshots/centrality2.png)
+
+### 🏘️ Community Detection
+
+![Community Detection](screenshots/communities.png)
+
+### 🔍 Student-Level Analysis
+
+![Student-Level Analysis](screenshots/student-analysis.png)
+
 ```text
 A, B, C, D, E, F, G
