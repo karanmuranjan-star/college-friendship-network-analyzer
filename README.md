@@ -8,8 +8,11 @@ The project represents students as nodes and friendships as edges, allowing user
 
 ## 🚀 Live Demo
 
-🌐 **Streamlit App:**  
-..[https://college-friendship-network-analyzer-sbhra2gckzusuqv8wmb8e3.streamlit.app/]
+👉 **[Open the College Friendship Network Analyzer](https://college-friendship-network-analyzer-sbhra2gckzusuqv8wmb8e3.streamlit.app/)**
+
+The application is deployed using Streamlit Community Cloud and can be used directly in the browser.
+
+[![Open App](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://college-friendship-network-analyzer-sbhra2gckzusuqv8wmb8e3.streamlit.app/)
 
 ---
 
@@ -31,18 +34,16 @@ The application allows users to dynamically create and analyze their own friends
 
 ## ✨ Features
 
-### 🕸️ Interactive Network Visualization
-
-Visualizes students and their friendship connections using NetworkX.
-
-The network graph includes:
-
-- Student nodes
-- Friendship edges
-- Community-based node grouping
-- Interactive Streamlit interface
-
----
+- 👥 Dynamic student network creation
+- 🤝 Interactive friendship selection
+- 🕸️ Network visualization
+- 📊 Multiple centrality measures
+- 🧩 Community detection
+- 🔍 Student-level analysis
+- 📈 Centrality visualizations
+- 📥 CSV, TXT and PDF export
+- 📄 Professional automated reporting
+- 🌐 Live Streamlit deployment
 
 ### 📊 Network Metrics
 
@@ -114,48 +115,40 @@ The application provides several visualizations:
 
 ---
 
-## 📥 Export Options
+## 📥 Export & Reporting
 
-Users can export:
+The application provides multiple export options:
 
-- Friendship network CSV
-- Centrality analysis CSV
-- Text report
-- Professional PDF report
+- 📊 Friendship Network CSV
+- 📈 Network Centrality CSV
+- 📝 Text Report
+- 📄 Professional PDF Report
 
----
+Users can generate and download reports directly from the application.
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Core programming language |
-| Streamlit | Interactive web application |
-| NetworkX | Graph creation and network analysis |
-| Matplotlib | Network and statistical visualization |
-| Pandas | Data processing and tabular analysis |
-| ReportLab | PDF report generation |
+- **Python** — Core programming language
+- **Streamlit** — Interactive web application
+- **NetworkX** — Graph and network analysis
+- **Matplotlib** — Data visualization
+- **Pandas** — Data handling and analysis
+- **ReportLab** — Professional PDF report generation
 
----
+## 🧠 Graph Theory Concepts
 
-# 🧠 Graph Theory Concepts Used
+The project applies several concepts from Graph Theory and Social Network Analysis:
 
-The project demonstrates practical applications of:
-
-- Graphs
-- Nodes
-- Edges
-- Degree
+- Nodes — Represent students
+- Edges — Represent friendships
 - Degree Centrality
 - Betweenness Centrality
 - Closeness Centrality
 - PageRank
 - Clustering Coefficient
+- Network Density
 - Connected Components
 - Community Detection
-- Network Density
-
----
 
 # 📊 Example Network
 
@@ -191,5 +184,11 @@ A sample network can contain students such as:
 
 ![Student-Level Analysis](screenshots/student-analysis.png)
 
+## 💻 Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/college-friendship-network-analyzer.git
 ```text
 A, B, C, D, E, F, G
