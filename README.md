@@ -150,17 +150,13 @@ The project applies several concepts from Graph Theory and Social Network Analys
 - Connected Components
 - Community Detection
 
-# 📊 Example Network
-
-A sample network can contain students such as:
-
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
 
-### 🕸️ Network Visualization
+### 🌐 Network Visualization
 
 ![Network Visualization](screenshots/network.png)
 
@@ -183,6 +179,12 @@ A sample network can contain students such as:
 ### 🔍 Student-Level Analysis
 
 ![Student-Level Analysis](screenshots/student-analysis.png)
+
+## ⚠️ Disclaimer
+
+This project is an educational demonstration of Graph Theory and Social Network Analysis.
+
+The student names shown in the screenshots are sample representations and do not represent real personal relationship data.
 
 ## 💻 Run Locally
 
